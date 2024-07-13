@@ -8,7 +8,7 @@
 #### Environment Variables
 
 - PORT: 3000
-- MONGO_URL: localhost:27017
+- MONGO_URL: localhost:27017/<database_name>
 
 ### Running
 
